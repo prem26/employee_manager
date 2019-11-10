@@ -1,0 +1,17 @@
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/bin/Debug/netcoreapp2.0/employee_manager.deps.json
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/bin/Debug/netcoreapp2.0/employee_manager.runtimeconfig.json
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/bin/Debug/netcoreapp2.0/employee_manager.runtimeconfig.dev.json
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/bin/Debug/netcoreapp2.0/employee_manager.dll
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/bin/Debug/netcoreapp2.0/employee_manager.pdb
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/bin/Debug/netcoreapp2.0/Contracts.dll
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/bin/Debug/netcoreapp2.0/Entities.dll
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/bin/Debug/netcoreapp2.0/Repository.dll
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/bin/Debug/netcoreapp2.0/Entities.pdb
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/bin/Debug/netcoreapp2.0/Contracts.pdb
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/bin/Debug/netcoreapp2.0/Repository.pdb
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/obj/Debug/netcoreapp2.0/employee_manager.csprojResolveAssemblyReference.cache
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/obj/Debug/netcoreapp2.0/employee_manager.csproj.CoreCompileInputs.cache
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/obj/Debug/netcoreapp2.0/employee_manager.AssemblyInfoInputs.cache
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/obj/Debug/netcoreapp2.0/employee_manager.AssemblyInfo.cs
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/obj/Debug/netcoreapp2.0/employee_manager.dll
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/employee_manager/obj/Debug/netcoreapp2.0/employee_manager.pdb

@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{C41EAE72-4427-43A0-AC2C-3CE85D17A624}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repository/TimesheetRepository.cs">
+    <Files>
+      <File FileName="employee_manager/Controllers/UserController.cs" Line="133" Column="30" />
+      <File FileName="employee_manager/Controllers/TaskController.cs" Line="68" Column="50" />
+      <File FileName="employee_manager/Controllers/TimesheetController.cs" Line="105" Column="84" />
+      <File FileName="Entities/Models/User.cs" Line="29" Column="18" />
+      <File FileName="Entities/Models/Task.cs" Line="20" Column="29" />
+      <File FileName="Entities/Models/Timesheet.cs" Line="13" Column="9" />
+      <File FileName="Repository/TimesheetRepository.cs" Line="31" Column="43" />
+      <File FileName="Repository/RepositoryBase.cs" Line="27" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.employee__manager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

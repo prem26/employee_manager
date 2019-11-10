@@ -1,0 +1,9 @@
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/Entities/bin/Debug/netcoreapp2.0/Entities.deps.json
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/Entities/bin/Debug/netcoreapp2.0/Entities.dll
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/Entities/bin/Debug/netcoreapp2.0/Entities.pdb
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/Entities/obj/Debug/netcoreapp2.0/Entities.csprojResolveAssemblyReference.cache
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/Entities/obj/Debug/netcoreapp2.0/Entities.csproj.CoreCompileInputs.cache
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/Entities/obj/Debug/netcoreapp2.0/Entities.AssemblyInfoInputs.cache
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/Entities/obj/Debug/netcoreapp2.0/Entities.AssemblyInfo.cs
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/Entities/obj/Debug/netcoreapp2.0/Entities.dll
+/Users/chamathariyawansa/Documents/codes/ccnz/emp/employee_manager/Entities/obj/Debug/netcoreapp2.0/Entities.pdb
